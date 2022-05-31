@@ -1,7 +1,8 @@
 # frontend
 
-## Project setup
+## Project setup for your local env
 ```
+cd remotestar-frontend
 npm install
 ```
 
@@ -15,7 +16,7 @@ Already defined one in .env for example.
 VUE_APP_BASE_URL=http://127.0.0.1:8000
 ```
 
-### Compiles and hot-reloads for development
+### Start Project for local env
 ```
 npm run serve
 ```
